@@ -87,7 +87,7 @@ Getting the quotes, transforming them, and displaying them on the web app:
 ## Page design
 
 
-* Envato Elements is where I got the bottom graphics (paid)
+* Envato Elements is where I got the bottom graphics 
 
 
 * Used the website Canva to create the banner
