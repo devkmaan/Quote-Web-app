@@ -25,7 +25,7 @@
 * Sorted the quotes using VaderSentiment SentimentIntensityAnalyzer, from most pleasant to most unfriendly
 * Used requests to get the quotes from the API
 * On a mobile device, you can swipe through the app!
-* I made a web app using Flask. [Try it!!! It also works well on mobile.](https://quotes-web-app-nlp-ml-powered-7d4f6b1a0e84.herokuapp.com/)
+* I made a web app using Flask. 
 
 
 ## Code and Resources Used
@@ -43,9 +43,6 @@
 **API:**
 https://github.com/lukePeavey/quotable
 
-
-**Flask Productionization:**
-https://quotes-web-app-nlp-ml-powered-7d4f6b1a0e84.herokuapp.com/
 
 
 ## Scraping the quotes
@@ -103,12 +100,7 @@ Getting the quotes, transforming them, and displaying them on the web app:
 
 
 <p align="center">
-   https://quotes-web-app-nlp-ml-powered-7d4f6b1a0e84.herokuapp.com/
-</p>
-<p align="center">
-  <a href="https://quotes-web-app-nlp-ml-powered-7d4f6b1a0e84.herokuapp.com/">
     <img src="picture4.png" alt="Logo" width=200 height=400>
-  </a>
 </p>
 
 
